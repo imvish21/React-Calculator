@@ -1,5 +1,5 @@
 # React-Calculator
-A react based  basic calculator
+A react based  basic calculator webapp.
 
 # Getting Started with Create React App
 
